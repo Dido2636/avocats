@@ -1,0 +1,50 @@
+{
+    "13": {
+        "nom": "ASSUS-JUTTNER Françoise",
+        "adresse": "36 Rue Tonduti De L'Escarène 06045",
+        "telephone": "T . 04 92 00 27 27",
+        "email": "contact@cabinet-assus.com"
+    },
+    "705": {
+        "nom": "ATTIA-ZEITOUN Sharon",
+        "adresse": "40 bd Victor Hugo 06000 Nice",
+        "telephone": "T . 06 58 39 21 55",
+        "email": "contact@saz-avocat.com"
+    },
+    "293": {
+        "nom": "AUCLAIR Esther",
+        "adresse": "62, rue Gioffrédo 06000 Nice",
+        "telephone": "T . 04 93 85 65 55",
+        "email": "esther@auclair-avocat.com"
+    },
+    "618": {
+        "nom": "AUDEBERT David",
+        "adresse": "57, Promenade des Anglais 06000 Nice",
+        "telephone": "T . 04 83 43 26 26",
+        "email": "david.audebert@lachkar.fr"
+    },
+    "201": {
+        "nom": "AUDOLI Amandine",
+        "adresse": "41, bd Carabacel 06000 Nice",
+        "telephone": "T . 04 93 80 38 26",
+        "email": "amandineaudoli.avocat@outlook.fr"
+    },
+    "335": {
+        "nom": "AUDOLI Florent",
+        "adresse": "31, rue de la Buffa 06000 Nice",
+        "telephone": "T . 04 93 07 82 24",
+        "email": "avocat@florentaudoli.com"
+    },
+    "450": {
+        "nom": "AUNE-BRANCALEONI Anne-Claire",
+        "adresse": "2, rue de Massingy Palais Massingy 06000 Nice",
+        "telephone": "T . 04 93 012 012",
+        "email": "ac@aune-avocat-nice.com"
+    },
+    "263": {
+        "nom": "AURICOSTE Laurent",
+        "adresse": "1, rue Louis Gassin 06300 Nice",
+        "telephone": "T . 04 93 87 12 66",
+        "email": "l.auricoste@unijuris.fr"
+    }
+}

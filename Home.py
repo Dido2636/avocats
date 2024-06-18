@@ -1,9 +1,6 @@
 import time, json
 import streamlit as st
 from function import scraping_acovat
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
 
 
 # Title 
